@@ -25,3 +25,12 @@
 /* Positioning Classes */
 
 
+#summer {
+  float: left;
+  width:600px;
+  clear:left;
+}
+.shadow {
+  width: 200px;
+  float:left;
+}
